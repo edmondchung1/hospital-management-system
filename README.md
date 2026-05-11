@@ -1,8 +1,10 @@
-# Hospital Management System Database
+<img width="770" height="622" alt="image" src="https://github.com/user-attachments/assets/7eca67d9-14b7-47f5-a5fd-bb639b69ff05" /># Hospital Management System Database
 
 A relational database project designed to support hospital operations including patient management, appointments, medical records, surgeries, room/bed tracking, and staff scheduling.
 
 Built using MySQL with a Kaggle dataset containing real-world hospital data.
+**Tools:** MySQL · SQL · ERD Design · Database Normalization
+
 
 **Dataset:** [Hospital Management System on Kaggle](https://www.kaggle.com/datasets/mshamoonbutt/hospital-management-system/data)
 
