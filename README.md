@@ -1,4 +1,4 @@
-<img width="770" height="622" alt="image" src="https://github.com/user-attachments/assets/7eca67d9-14b7-47f5-a5fd-bb639b69ff05" /># Hospital Management System Database
+# Hospital Management System Database
 
 A relational database project designed to support hospital operations including patient management, appointments, medical records, surgeries, room/bed tracking, and staff scheduling.
 
